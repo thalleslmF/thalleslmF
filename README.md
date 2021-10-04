@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: [ZupIT]
 - 🌱 I’m currently learning  [GOLANG] / [KUBERNETES]
-- 👯 I’m looking to canuraghazraollaborate on  kubernetes projects
+- 👯 I’m looking to collaborate on  kubernetes projects
 - 📫 How to reach me: lopthalles@gmail.com
 
 
